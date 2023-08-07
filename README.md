@@ -1,4 +1,4 @@
-# TensorlowLite
+# Tensorlow
 TensorFlow Lite models and making sample apps for a variety of ML applications.
 
 
